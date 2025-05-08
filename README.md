@@ -1,2 +1,2 @@
-# Network_Notes
-Notes about network cards, useful utilities, adapter tests.
+﻿# Network_Notes
+Заметки о сетевых картах, их тестировании, полезных утилитах.
