@@ -3,12 +3,15 @@
 
 **NIC** - тест различных сетевых карт
 
-|--------**X520-SR2** ---- 2 x SFP+ 10Gb PCIE 2.0, на базе Intel 82599 ES, тест в Windows, Linux.
+X520-SR2 --- 2 x SFP+ 10Gb PCIE 2.0, на базе Intel 82599 ES, тест в Windows, Linux.
 
 **SFP**
-PZ-SFP10G --- тестировался вместе с X520, см ее тесты
 
-**Tools**
+PZ-SFP10G (Puzhi) --- тестировался вместе с X520, см ее тесты
 
-iperf3, ip, ethtool.
+------------------------
+
+iperf3, ip, ethtool
+ddm
+
 
